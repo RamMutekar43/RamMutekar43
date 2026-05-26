@@ -169,6 +169,26 @@ Frontend Web Developer | React Developer | C++ Programmer
 
 ---
 
+# 🧠 LeetCode Stats
+
+<p align="center">
+
+<img src="https://leetcard.jacoblin.cool/RAM_043?theme=dark&font=Nunito&ext=heatmap" />
+
+</p>
+
+---
+
+# 🏆 Badges Earned
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=RamMutekar43&theme=tokyonight&row=1&column=6" />
+
+</p>
+
+---
+
 # 🚀 Upcoming Goals
 
 - Backend Development
