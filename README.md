@@ -45,7 +45,7 @@ Frontend Web Developer | React Developer | C++ Programmer
 </a>
 
 <a href="https://leetcode.com/u/RAM_043/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="45" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" />
 </a>
 
 <a href="mailto:rammutekar8@gmail.com">
