@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ram Mutekar</h1>
 
 <h3 align="center">
-Frontend Web Developer | React Developer | Java & C++ Programmer
+Frontend Web Developer | React Developer | C++ Programmer
 </h3>
 
 <p align="center">
@@ -27,7 +27,7 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 🎓 Electronics & Computer Engineering Student  
 💻 Frontend Web Developer  
 ⚡ Passionate about UI/UX and scalable web applications  
-🧠 Strong foundation in Java, C++, DSA, DBMS & API Integration  
+🧠 Strong foundation in C++, DSA, DBMS & API Integration  
 🚀 Building real-world projects using React, Firebase & MongoDB  
 
 ---
@@ -82,12 +82,14 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 
 ### Features
 - Real-time inventory tracking
-- Low stock alerts
+- Low stock alerts using Telegram Bot
 - Sales analytics dashboard
+- Product recommendation system
+- ML-based sales prediction
 - Responsive admin interface
 
 ### Tech Stack
-`React` `MongoDB` `Firebase`
+`React` `Flask` `MongoDB` `Machine Learning` `Tailwind CSS`
 
 ---
 
@@ -98,9 +100,10 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 - Service listings system
 - Responsive professional UI
 - REST API integration
+- Modern and scalable interface
 
 ### Tech Stack
-`React` `MongoDB` `Tailwind CSS`
+`React` `Chakra UI` `Tailwind CSS` `MongoDB` `Spring Boot` `Axios` `Gemini API`
 
 ---
 
@@ -110,9 +113,10 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 - AI-generated contextual email replies
 - Gmail workflow enhancement
 - Productivity-focused extension
+- Smart response generation
 
 ### Tech Stack
-`React` `Gemini API`
+`Spring Boot` `React.js` `Gemini API` `JavaScript`
 
 ---
 
@@ -127,7 +131,7 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 ### Tech Stack
 `React` `Tailwind CSS` `TMDB API`
 
----
+<!-- ---
 
 # 📊 GitHub Stats
 
@@ -139,7 +143,7 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 
 </p>
 
----
+--- -->
 
 # 🔥 GitHub Streak
 
@@ -149,18 +153,18 @@ Frontend Web Developer | React Developer | Java & C++ Programmer
 
 ---
 
-# 📈 Contribution Graph
+# 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamMutekar43&theme=tokyo-night" />
+<img src="https://github-profile-trophy.vercel.app/?username=RamMutekar43&theme=tokyonight&row=1&column=6" />
 </p>
 
 ---
 
-# 🐍 Contribution Snake
+# 👀 Profile Views
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+<img src="https://komarev.com/ghpvc/?username=RamMutekar43&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 </p>
 
 ---
