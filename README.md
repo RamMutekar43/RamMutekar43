@@ -131,19 +131,7 @@ Frontend Web Developer | React Developer | C++ Programmer
 ### Tech Stack
 `React` `Tailwind CSS` `TMDB API`
 
-<!-- ---
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RamMutekar43&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RamMutekar43&layout=compact&theme=tokyonight" />
-
-</p>
-
---- -->
+---
 
 # 🔥 GitHub Streak
 
@@ -165,26 +153,6 @@ Frontend Web Developer | React Developer | C++ Programmer
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
----
-
-# 🧠 LeetCode Stats
-
-<p align="center">
-
-<img src="https://leetcard.jacoblin.cool/RAM_043?theme=dark&font=Nunito&ext=heatmap" />
-
-</p>
-
----
-
-# 🏆 Badges Earned
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=RamMutekar43&theme=tokyonight&row=1&column=6" />
-
 </p>
 
 ---
