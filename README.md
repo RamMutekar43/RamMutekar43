@@ -153,18 +153,18 @@ Frontend Web Developer | React Developer | C++ Programmer
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RamMutekar43&theme=tokyonight&row=1&column=6" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=RamMutekar43&theme=tokyo-night" />
 </p>
 
 ---
 
-# 👀 Profile Views
+# 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=RamMutekar43&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
