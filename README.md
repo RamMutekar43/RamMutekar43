@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ram Mutekar</h1>
+<!-- <h1 align="center">Hi 👋, I'm Ram Mutekar</h1>
 
 <h3 align="center">
 Frontend Web Developer | React Developer | C++ Programmer
@@ -18,11 +18,11 @@ Frontend Web Developer | React Developer | C++ Programmer
     <img src="https://img.shields.io/github/stars/RamMutekar43?affiliations=OWNER&style=for-the-badge" />
   </a>
 
-</p>
+</p> -->
 
 ---
 
-# 💫 About Me
+<!-- # 💫 About Me
 
 🎓 Electronics & Computer Engineering Student  
 💻 Frontend Web Developer  
@@ -44,19 +44,15 @@ Frontend Web Developer | React Developer | C++ Programmer
 <img src="https://skillicons.dev/icons?i=github" height="45" />
 </a>
 
-<!-- <a href="https://leetcode.com/u/RAM_043/" target="_blank">
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="45" />
-</a> -->
-
 <a href="mailto:rammutekar8@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="45" />
 </a>
 
-</p>
+</p> -->
 
 ---
 
-# 🛠 Tech Stack
+<!-- # 🛠 Tech Stack
 
 ### 👨‍💻 Languages
 <p>
@@ -76,11 +72,11 @@ Frontend Web Developer | React Developer | C++ Programmer
 ### 🧰 Tools & IDEs
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,idea" />
-</p>
+</p> -->
 
 ---
 
-# 🚀 Featured Projects
+<!-- # 🚀 Featured Projects
 
 ## 📦 Inventory Management Web Application
 
@@ -135,9 +131,9 @@ Frontend Web Developer | React Developer | C++ Programmer
 ### Tech Stack
 `React` `Tailwind CSS` `TMDB API`
 
----
+--- -->
 
-# 🔥 GitHub Streak
+<!-- # 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=RamMutekar43&theme=tokyonight" />
@@ -175,4 +171,4 @@ Frontend Web Developer | React Developer | C++ Programmer
 
 <p align="center">
 ⭐ Always learning, building, and improving
-</p>
+</p> -->
